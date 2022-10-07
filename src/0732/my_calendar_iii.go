@@ -1,4 +1,4 @@
-package _732
+package _0732
 
 import "sort"
 
